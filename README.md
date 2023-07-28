@@ -5,10 +5,10 @@ Repositório aberto de fontes e dados abertos publicados por fontes nacionais, s
 ## Conteúdo
 
 - [Dados Jurídicos](#dados-jurídicos)
-  - [Banco Nacional de Mandados de Prisão - BNMP](#cnj-bnmp)
+  - [Banco Nacional de Mandados de Prisão - BNMP](#banco-nacional-de-mandados-de-prisao-(BNMP)
 
 ## Dados Jurídicos
 
-### Banco Nacional de Mandados de Prisão - BNMP
+### Banco Nacional de Mandados de Prisão (BNMP)
 
 URL: https://portalbnmp.cnj.jus.br/#/pesquisa-peca
