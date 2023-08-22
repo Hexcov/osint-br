@@ -1,41 +1,17 @@
-# OSINT-BR
+# Acervo Nacional de Fontes Abertas
 
-Repositório aberto de fontes e dados abertos publicados por fontes nacionais, sejam públicas ou privadas.
+O Acervo Nacional de Fontes Abertas é um agregado de consultas, certidões, relatórios e bases de dados de fontes abertas de interesse público, organizada por fonte.
 
-## Dados de Pessoas Jurídicas
+Esta lista pública tem como fim servir de referencial para especialistas em inteligência de fontes abertas, analistas de dados, desenvolvedores de tecnologias cívicas e todos os demais interessados em fontes abertas de dados.
 
-### Ministério da Indústria, Comércio Exterior e Serviços
+## Conselho Administrativo de Defesa Econômica (CADE)
 
-#### Catálogo de Importadores Brasileiros
+Autarquia federal vinculada ao Ministério da Justiça e Segurança Pública, é reponsável por zelar pela livre concorrência no mercado, prevenir e reprimir abusos de poder econômico.
 
-[Lista de empresas importadoras](https://cib.dpr.gov.br/Home/PesquisaCompleta). Dados de 2016.
+### [Busca avançada de jurisprudência](https://jurisprudencia.cade.gov.br/pesquisa-avancada)
 
-### Receita Federal
+Pesquisa integrada de jurisprudência, pareceres técnicos, guias e publicações, legislação e notícias do CADE, além de acórdãos (TCU). Aceita consulta via palavras-chave e filtragem através de campos específicos.
 
-#### Empresa Comercial Exportadora/Trading Company
+### [Pesquisa pública de processos e documentos](https://sei.cade.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0)
 
-Empresa Comercial Exportadora é aquela que, em miúdos, é uma intermediária entre compradores e vendedores de países diferentes. atua como interveniente na exportação indidireta
-
-[Relação de Empresas Comerciais Exportadoras que possuem Certificado de Registro Especial](https://www.gov.br/siscomex/pt-br/servicos/empresa-comercial-exportadora-trading-company)
-
-#### Loja Franca
-
-Loja Franca é um Regime Aduaneiro Especial que permite a venda a passageiro em viagem internacional sem a cobrança de tributos.
-
-[Relação das lojas francas em aeroportos e pontos de fronteira terrestre](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/subportais-aduana-e-comercio-exterior/relacao-das-lojas-francas-em-aeroportos-e-pontos-de-fronteira-terrestre)
-
-#### Operador Econômico Autorizado (OEA)
-
-A Receita Federal certifica como Operador Econômico Autorizado a empresa que cumpre critérios e requisitos para comprovar ser um [operador de baixo risco](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao-e-exportacao/oea/quem-pode-ser-oea) na cadeia de suprimentos internacional, concedendo a ela benefícios na Aduana Brasileira.
-
-[Lista de Operadores OEA Ativos](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao-e-exportacao/oea/operadores-ja-certificados-como-oea/operadores-OEA-ativos/view), [Espelho desatualizado no aer.org.br](https://aer.org.br/lista-de-empresas-oea/)
-
-## Dados Jurídicos
-
-### Conselho Nacional de Justiça (CNJ)
-
-#### Banco Nacional de Mandados de Prisão (BNMP)
-
-Sistema que contém todos os mandados de prisão em aberto no Brasil. Permite tanto a consulta por dados da parte procurada quanto filtros amplos por estado ou município.
-
-[BNMP](https://portalbnmp.cnj.jus.br/#/pesquisa-peca)
+Pesquisa integrada de todos os documentos públicos do CADE, incluindo processos administrativos, nomeações de cargos, demandas externas, viagens e muitos outros. Permite consulta via número do processo / documento e palavras-chave e filtragem por tipo de processo ou documento e por data.
